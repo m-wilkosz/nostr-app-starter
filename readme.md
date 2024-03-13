@@ -40,8 +40,8 @@ CI=true ./gradlew test integrationTest --rerun-tasks --no-parallel
 ```
 
 ### Resources
-[Nostr (GitHub)](https://github.com/nostr-protocol/nostr)
-[NIPs (GitHub)](https://github.com/nostr-protocol/nips)
-[nostr.com](https://nostr.com)
-[awesome-nostr (GitHub)](https://github.com/aljazceru/awesome-nostr)
+[Nostr (GitHub)](https://github.com/nostr-protocol/nostr)\
+[NIPs (GitHub)](https://github.com/nostr-protocol/nips)\
+[nostr.com](https://nostr.com)\
+[awesome-nostr (GitHub)](https://github.com/aljazceru/awesome-nostr)\
 [Protocol Buffers](https://developers.google.com/protocol-buffers/docs/proto3#json)
